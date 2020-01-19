@@ -2,3 +2,6 @@
 
 Web App to manage developers. 
  
+## Technologies
+
+- ReactJS
